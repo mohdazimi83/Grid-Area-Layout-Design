@@ -5,6 +5,10 @@ This project demonstrates the use of **CSS Grid Layout** to create a visually ap
 It focuses on learning how to use **grid-template-areas**, **grid-template-columns**, and **media queries** to build flexible, modern layouts.
 
 ---
+### 🖼️ Preview
+
+  <img width="1451" height="852" alt="image" src="https://github.com/user-attachments/assets/295bf6a4-97dd-4342-b2bd-b150f56acc0c" />
+
 
 ### 🧠 What I Learned
 - How to design responsive layouts using **CSS Grid**.  
